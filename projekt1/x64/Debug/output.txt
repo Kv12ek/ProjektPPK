@@ -1,0 +1,2 @@
+5 2 % n=5 przykładow, d=2 atrybuty
+wyskok wzrost % nazwy atrybutow
