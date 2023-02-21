@@ -1,0 +1,7 @@
+5 2 % n=5 przyk³adow, d=2 atrybuty
+wyskok wzrost %nazwy atrybutow
+40.8 195.9 koszykowka
+45.5 187.4 lekkoatletyka
+51.6 197 koszykowka
+55 176.2 koszykowka
+49.4 178.6 lekkoatletyka

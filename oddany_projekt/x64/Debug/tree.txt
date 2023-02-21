@@ -1,0 +1,4 @@
+2 % drzewo zawiera dwa wêz³y
+0 wzrost > 190.0 1 koszykowka
+1 wyskok > 50.0 2 koszykowka 
+2 waga > 60.0 suma lekkoatletyka
